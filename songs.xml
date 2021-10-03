@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="hw3style.css"?>
+
+<songSet>
+    <song id="song1">
+        <name>Song Name: Cocoon</name>
+        <artist>Artist: Milky Chance</artist>
+        <genre>Genre: Indie</genre>
+        <releaseYear>Release Year: 2016</releaseYear>
+        
+    </song>
+    <song id="song2">
+        <name>Song Name: Outside</name>
+        <artist>Artist: Meek Mill</artist>
+        <genre>Genre: Rap</genre>
+        <releaseYear>Release Year: 2021</releaseYear>
+        
+    </song>
+    <song id="song3">
+        <name>Song Name: A$AP Forever</name>
+        <artist>Artist: A$AP Rocky</artist>
+        <genre>Genre: Rap</genre>
+        <releaseYear>Release Year: 2018</releaseYear>
+        
+    </song>
+    <song id="song4">
+        <name>Song Name: Brazil</name>
+        <artist>Artist: Declan Mckenna</artist>
+        <genre>Genre: Indie</genre>
+        <releaseYear>Release Year: 2015</releaseYear>
+        
+    </song>
+    <song id="song5">
+        <name>Song Name: Flight 22</name>
+        <artist>Artist: Kali Uchis</artist>
+        <genre>Genre: R and B</genre>
+        <releaseYear>Release Year: 2018</releaseYear>
+        
+    </song>
+    <song id="song6">
+        <name>Song Name: psyco</name>
+        <artist>Artist: Dave</artist>
+        <genre>Genre: Rap</genre>
+        <releaseYear>Release Year: 2019</releaseYear>
+        
+    </song>
+    <song id="song7">
+        <name>Song Name: Enviornment</name>
+        <artist>Artist: Dave</artist>
+        <genre>Genre: Rap</genre>
+        <releaseYear>Release Year: 2018</releaseYear>
+        
+    </song>
+    <song id="song8">
+        <name>Song Name: I Feel It Coming</name>
+        <artist>Artist: The Weeknd</artist>
+        <genre>Genre: Pop</genre>
+        <releaseYear>Release Year: 2016</releaseYear>
+        
+    </song>
+    <song id="song9">
+        <name>Song Name: Starboy</name>
+        <artist>Artist: The Weeknd</artist>
+        <genre>Genre: Pop</genre>
+        <releaseYear>Release Year: 2016</releaseYear>
+        
+    </song>
+    <song id="song10">
+        <name>Song Name: Reminder</name>
+        <artist>Artist: The Weeknd</artist>
+        <genre>Genre: Pop</genre>
+        <releaseYear>Release Year: 2016</releaseYear>
+        
+    </song>
+  
+</songSet>
