@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/css" href="hw3style.css"?>
 
 <songSet>
+    <theSet> The Song Set: </theSet>
     <song id="song1">
         <name>Song Name: Cocoon</name>
         <artist>Artist: Milky Chance</artist>

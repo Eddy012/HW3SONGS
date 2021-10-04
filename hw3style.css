@@ -1,15 +1,19 @@
-song{
+song,theSet{
     color: #FFFFFF;
     background-color: #5B5A5A;
     width:100%;
     padding: 10px
 }
 
-songSet, song, name, artist, genre, releaseYear {
+songSet, song, name, artist, genre, releaseYear,theSet {
     display: block;
     text-align: center;
 }
 
-name{
+name,theSet{
       font-weight: bold;
+}
+
+theSet{
+    font-size: 20px
 }
